@@ -2,14 +2,14 @@
 <addons>
 <addon id="repository.service.vpn.manager"
        name="No1CaNTeL Repository"
-       version="1.0.0"
+       version="1.0.1"
        provider-name="No1CaNTeL">
   <extension point="xbmc.addon.repository"
              name="No1CaNTeL Repository">
     <dir>
-      <info compressed="false">https://no1cantel.github.io/addons.xml</info>
-      <checksum>https://no1cantel.github.io/addons.xml.md5</checksum>
-      <datadir zip="true">https://no1cantel.github.io/</datadir>
+      <info compressed="false">https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/addons.xml</info>
+      <checksum>https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/addons.xml.md5</checksum>
+      <datadir zip="true">https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/</datadir>
       <hashes>false</hashes>
     </dir>
   </extension>
