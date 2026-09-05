@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="repository.service.vpn.manager"
+<addon id="repository.no1cantel"
        name="No1CaNTeL Repository"
-       version="1.0.1"
+       version="1.0.0"
        provider-name="No1CaNTeL">
   <extension point="xbmc.addon.repository"
              name="No1CaNTeL Repository">
     <dir>
-      <info compressed="false">https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/addons.xml</info>
-      <checksum>https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/addons.xml.md5</checksum>
-      <datadir zip="true">https://raw.githubusercontent.com/No1CaNTeL/No1CaNTeL.github.io/main/</datadir>
+      <info compressed="false">https://aregbee.github.io/No1CaNTeL/addons.xml</info>
+      <checksum>https://aregbee.github.io/No1CaNTeL/addons.xml.md5</checksum>
+      <datadir>https://aregbee.github.io/No1CaNTeL/</datadir>
       <hashes>false</hashes>
     </dir>
   </extension>
@@ -23,7 +23,7 @@
 </addon>
 <addon id="service.vpn.manager"
        name="Kodi VPN Manager"
-       version="0.1.1~beta15"
+       version="0.1.1~beta16"
        provider-name="No1CaNTeL">
   <requires>
     <import addon="xbmc.python" version="3.0.0"/>
