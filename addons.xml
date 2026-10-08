@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <addons>
   <addon id="repository.no1cantel" name="No1CaNTeL Repository" version="1.0.1" provider-name="No1CaNTeL">
     <extension point="xbmc.addon.repository" name="No1CaNTeL Repository">
@@ -16,7 +16,7 @@
       <license>MIT</license>
     </extension>
   </addon>
-  <addon id="service.vpn.manager" name="Kodi VPN Manager" version="0.1.1~beta24" provider-name="No1CaNTeL">
+  <addon id="service.vpn.manager" name="Kodi VPN Manager" version="0.1.1~beta25" provider-name="No1CaNTeL">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
     </requires>
