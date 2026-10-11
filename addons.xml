@@ -16,7 +16,7 @@
       <license>MIT</license>
     </extension>
   </addon>
-  <addon id="service.vpn.manager" name="Kodi VPN Manager" version="0.1.1~beta26" provider-name="No1CaNTeL">
+  <addon id="service.vpn.manager" name="Kodi VPN Manager" version="0.1.1~beta27" provider-name="No1CaNTeL">
     <requires>
       <import addon="xbmc.python" version="3.0.0" />
     </requires>
